@@ -1,5 +1,11 @@
 ### Hi there 👋
+A continuous learner at heart and a lover of tech. I'm a frontendweb developer with basic skills in technologies including HTML, CSS, JavaScript, Bootstrap, Git, and Github. I also have a some understanding of React, PHP, and Laravel.
 
+As an individual or a team player, I possess a strong ability to ideate, innovate, and execute exceptional solutions that enhance work and productivity. Whether working independently or collaboratively, I am committed to producing outstanding results that exceed expectations. My innovative thinking and creative problem-solving skills enable me to identify and address challenges effectively, while my attention to detail ensures that the final output is of the highest quality. Additionally, my strong communication and interpersonal skills enable me to collaborate seamlessly with colleagues and stakeholders at all levels..
+
+Currently I'm working on projects that are testing my level of expertise. I hope to show them all at github soon. I've also taken an interest in AI and hopefully can learn how to develop an AI software in the near future.
+
+The tech field is rapidly changing and the future is bright!
 <!--
 **ferdsower/ferdsower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
